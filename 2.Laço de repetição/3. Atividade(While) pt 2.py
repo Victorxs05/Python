@@ -9,4 +9,8 @@ while True:
         print("Nota inválida. A nota deve estar entre 0 e 10. Por favor, tente novamente.")
     else:
         print("Nota válida:", nota)
+<<<<<<< HEAD
         break
+=======
+        break
+>>>>>>> ba77916 (Aula python 08 05)
