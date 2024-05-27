@@ -11,7 +11,7 @@ menorNumero = 999
 
 #for i in range(numeroInteiros):
 for i in range(numeroInteiros):
-    numero = int(input(f"Digite o {i}º numero: "))
+    numero = int(input(f"Digite o {i+1}º numero: "))
     contador += 1 
     if numero > maiorNumero:
         maiorNumero = numero
